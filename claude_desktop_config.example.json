@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "ecom-sql": {
+      "command": "/home/aryan/Projects/ismokestack/ecom-sql-mcp/.venv/bin/python",
+      "args": ["/home/aryan/Projects/ismokestack/ecom-sql-mcp/server.py"],
+      "env": {
+        "HF_TOKEN": ""
+      }
+    }
+  }
+}
